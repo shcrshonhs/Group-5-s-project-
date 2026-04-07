@@ -23,6 +23,12 @@
 
 처음에 못 잡았다고 끝이 아님. 정정기간에는 취소하는 사람이 많아서 자리가 생길 수 있음.
 
+![수강변경 안내문1](https://github.com/user-attachments/assets/3f5cb21a-1b53-43d1-a0e9-b9d8a6a1ac23)
+
+
+![수강변경 안내문2](https://github.com/user-attachments/assets/ce490624-5a99-439d-8ca7-290eccaed504)
+
+
 ---
 
 ## 4. 자주 들어가보기
@@ -61,6 +67,12 @@
 ## 7. 수강정원변경원 신청
 
 수업에 따라 정원을 늘려달라고 요청할 수 있음.
+
+![수강정원변경원 프로그램 사용설명서 1](https://github.com/user-attachments/assets/fee18d26-0fbb-4553-a3cf-58b26555177e)
+
+![수강정원변경원 프로그램 사용설명서 2](https://github.com/user-attachments/assets/ea90755e-5773-470f-92f9-6349c1301b86)
+
+![수강정원변경원 프로그램 사용설명서 3](https://github.com/user-attachments/assets/aec91720-6782-4279-9dd5-f5b59724983b)
 
 
 ---
