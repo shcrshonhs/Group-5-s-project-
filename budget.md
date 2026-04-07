@@ -20,7 +20,7 @@
 * **환급 정책:** 적립된 마일리지는 학기 말에 **현금으로 환급**받을 수 있어 실질적인 생활비 수입원이 됩니다.
 
 > ![한국장학재단 로고](https://play-lh.googleusercontent.com/NGXqDMZx81l5vbGfEWWkk1Ow2gj9KBxeDVNopc6NTgYSKYxKIfLDrpvO0Cr9uK-n7vQ)
-> *그림 1: 장학금 및 마일리지 관리를 위한 주요 유관기관*
+> *그림 1: 한국장학재단 이미지*
 
 ---
 
