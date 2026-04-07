@@ -79,7 +79,15 @@
 
 에브리타임 강의평을 활용하면 교수 스타일, 과제량, 시험 난이도를 미리 알 수 있음.
 
-(이미지 넣기)
+![에브리타임 강의평](https://github.com/user-attachments/assets/42d0817e-4e44-4f2a-8685-e96185652391)
+
+
+![에브리타임 강의실](https://github.com/user-attachments/assets/9a451dfc-b6d7-4518-9da3-595e98f78006)
+
+
+![강의 평가 확인](https://github.com/user-attachments/assets/a15e2931-3b05-45c4-afe9-fbebaf9cf5af)
+
+
 
 ---
 
