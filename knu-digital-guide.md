@@ -8,7 +8,7 @@
 경북대학교 생활의 시작과 끝! **크누피아(KNUPIA)** 는 재학생이라면 반드시 설치해야 하는 학교 공식 모바일 앱입니다. 실물 학생증을 완벽하게 대체할 뿐만 아니라 각종 필수 공지를 가장 빠르게 받아볼 수 있습니다.
 
 <div align="center">
-  <img width="300" alt="크누피아 앱 이미지" src="https://github.com/user-attachments/assets/928045b5-4615-4f54-b3d9-8c546980ebe3" />
+  <img width="300" alt="크누피아 앱 이미지" src="https://github.com/user-attachments/assets/928045b5-4615-4f54-b3d9-8c546980ebe3">
 </div>
 
 ### ✨ 핵심 기능 3가지
@@ -27,7 +27,7 @@
 경북대학교 중앙도서관 분관 이용을 위한 필수 애플리케이션입니다. 크누피아 앱과 별개로 도서관 전용 기능에 특화되어 있으며, 원활한 학습 공간 확보와 자료 대출을 위해 반드시 설치해야 합니다.
 
 <div align="center">
-  <img width="150" alt="도서관 앱 이미지" src="https://github.com/user-attachments/assets/be195af0-1bd6-4b34-80d3-b43acca3ce65" />
+  <img width="150" alt="도서관 앱 이미지" src="https://github.com/user-attachments/assets/be195af0-1bd6-4b34-80d3-b43acca3ce65">
 </div>
 
 ### ✨ 핵심 기능
@@ -67,7 +67,7 @@
 경북대학교의 학적, 성적, 등록금, 장학 등 대학 생활 전반에 필요한 행정 업무를 종합적으로 처리하는 공식 학사 포털입니다.
 
 <div align="center">
-  <img src="https://i.namu.wiki/i/ric94HXpzHoe37CPM-Lt6TZp6rDWyBFWDWZsOyAlGRlzI7NPLGK4uRU-re0CxbrkhhoB2fahSvfCBvNPY0xNag.svg" width="150" alt="통합정보시스템 이미지">
+  <img src="https://github.com/user-attachments/assets/46d104a6-c91d-4e9e-a928-dd65e7040585" width="150" alt="통합정보시스템 이미지">
 </div>
 
 ### ✨ 핵심 기능
@@ -85,7 +85,7 @@
 캠퍼스 전역에서 안정적인 무선 인터넷 서비스를 이용하기 위한 설정 방법입니다. 최초 1회 인증 설정을 완료하면 졸업 시까지 교내외에서 편리하게 이용할 수 있습니다.
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Eduroam_logo.svg/1280px-Eduroam_logo.svg.png" width="300" alt="eduroam 이미지">
+  <img src="https://github.com/user-attachments/assets/3db1b620-1872-48f5-abb5-8b675a22ba2a" width="300" alt="eduroam 이미지">
 </div>
 
 ### ✨ 핵심 기능
@@ -105,7 +105,7 @@
 경북대학교 재학생들에게 제공되는 필수 IT 지원 혜택입니다. 원활한 과제 수행과 다양한 대학생 전용 소프트웨어 사용을 위해 가장 먼저 설정해야 하는 항목입니다.
 
 <div align="center">
-  <img src="https://img.etnews.com/news/article/2014/09/27/techholic_27090023103005.jpg" width="150" alt="Office 365 이미지">
+  <img src="https://github.com/user-attachments/assets/d205443a-536d-437a-b981-2fc77a884c1a" width="150" alt="Office 365 이미지">
 </div>
 
 ### ✨ 핵심 기능
