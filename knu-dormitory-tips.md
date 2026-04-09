@@ -27,9 +27,15 @@
 
 ## 3. 기숙사 인터넷 관련 꿀팁
 
-* **dormip.knu.ac.kr** ← 기숙사 인터넷 사용 신청 주소<br><br>
-![cmd화면](https://github.com/user-attachments/assets/285d4910-816e-4f19-ae34-b4a847f1d6d6)<br><br>
+* **dormip.knu.ac.kr** ← 기숙사 인터넷 사용 신청 주소(누리관 제외)
+* **nuriip.knu.ac.kr** ← 누리관 전용 인터넷 사용 신청 주소<br><br>
+![Inter1-이미지-0](https://github.com/user-attachments/assets/350c960e-ff01-4bc6-ab63-47c0cde4235b)
+![Inter1-이미지-1](https://github.com/user-attachments/assets/0a7f231e-efa0-43f9-98bd-6714b57e0ea8)
+![Inter1-이미지-2](https://github.com/user-attachments/assets/51c6bdc3-511c-457b-b316-3c17eb059bf3)
+<br><br>
 * 네트워크가 자꾸 안 잡힐때 cmd를 키고 ipconfig /release를 입력해 ip를 초기화 → ipconfig /renew를 입력해 ip 주소 갱신
+![cmd화면](https://github.com/user-attachments/assets/285d4910-816e-4f19-ae34-b4a847f1d6d6)<br><br>
+
 
 ---
 
