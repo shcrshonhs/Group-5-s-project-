@@ -29,13 +29,18 @@
 
 * **dormip.knu.ac.kr** ← 기숙사 인터넷 사용 신청 주소(누리관 제외)
 * **nuriip.knu.ac.kr** ← 누리관 전용 인터넷 사용 신청 주소<br><br><br><br>
-![Inter1-이미지-0](https://github.com/user-attachments/assets/350c960e-ff01-4bc6-ab63-47c0cde4235b)
-![Inter1-이미지-1](https://github.com/user-attachments/assets/0a7f231e-efa0-43f9-98bd-6714b57e0ea8)
-![Inter1-이미지-2](https://github.com/user-attachments/assets/51c6bdc3-511c-457b-b316-3c17eb059bf3)
-<br><br><br><br>
+>![Inter1-이미지-0](https://github.com/user-attachments/assets/350c960e-ff01-4bc6-ab63-47c0cde4235b)
+>![Inter1-이미지-1](https://github.com/user-attachments/assets/0a7f231e-efa0-43f9-98bd-6714b57e0ea8)
+>![Inter1-이미지-2](https://github.com/user-attachments/assets/51c6bdc3-511c-457b-b316-3c17eb059bf3)
+>사진1: ip 신청 절차 이미지
+
+<br><br>
 * 네트워크가 자꾸 안 잡힐때 cmd를 키고 ipconfig /release를 입력해 ip를 초기화 → ipconfig /renew를 입력해 ip 주소 갱신
 <br><br><br><br>
-![cmd화면](https://github.com/user-attachments/assets/285d4910-816e-4f19-ae34-b4a847f1d6d6)<br><br>
+>![cmd화면](https://github.com/user-attachments/assets/285d4910-816e-4f19-ae34-b4a847f1d6d6)  
+>사진2: cmd 화면 이미지
+
+<br><br>
 
 
 ---
@@ -43,7 +48,10 @@
 ## 4. 기숙사 상벌점 관리하기
 
 * 기숙사 상벌점 조회는 생활관 정보시스템 (dormt.knu.ac.kr) <br><br><br>
-![생활관 정보시스템 화면](https://github.com/user-attachments/assets/e956781e-92ec-44d9-bbf0-fbbc767fda75)<br><br>
+>![생활관 정보시스템 화면](https://github.com/user-attachments/assets/e956781e-92ec-44d9-bbf0-fbbc767fda75)
+>사진3: 생활관 정보시스템 화면 이미지
+
+
 * 벌점이 많이 쌓였다면 기숙사 카톡 공지방을 자주 확인해서 봉사 활동을 참여해 상점을 채워 상쇄를 해야합니다.
 * 1시 부터 통금시간이니 웬만하면 1시를 넘기지 않게 다닙시다.
 
