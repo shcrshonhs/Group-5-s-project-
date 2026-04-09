@@ -16,7 +16,7 @@
 | 목차 | 주요 내용 | 담당자 |
 | :--- | :--- | :--- |
 | [1. 시간표 짜는 법 & 수강신청 꿀팁](https://github.com/shcrshonhs/Group-5-s-project-/blob/docs/timetable-tips/course-registration%20%26%20timetable.md) | 수강신청 꿀팁, 졸업 인증제, 필수 이수 학점 | **김수현** |
-| [2. 교내 편의시설](./docs/CampusFacilities.md)| 도서관, 복지관 등 학생 편의시설 | **김윤영** |
+| [2. 교내 편의시설](https://github.com/shcrshonhs/Group-5-s-project-/blob/de64f4505f531389fe6b29d2774d5b4061a70f9a/CampusFacilities.md)| 도서관, 복지관 등 학생 편의시설 | **김윤영** |
 | [3. 기숙사 생활 요령](./knu-dormitory-tips.md) | 기숙사 수칙, 도서관 이용법, 학생식당 및 편의시설 | **이세현** |
 | [4. 생활비 관리 요령](./budget.md) | 성적/복지 장학금, 국가장학금 신청, 학자금 대출 | **장원준** |
 | [5. 필수 앱 및 웹사이트,IT 서비스 소개](./knu-digital-guide.md) |크누피아,도서관,LMS,통정시,교내 wifi  | **신진수** |
