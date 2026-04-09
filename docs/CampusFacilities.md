@@ -1,7 +1,7 @@
 # 🏢 2. 교내 편의시설 가이드
 
 경북대학교 학우 여러분이 학교 생활 중 가장 자주 이용하는 주요 편의시설과 서비스 안내입니다.
-![학교지도]("https://github.com/user-attachments/assets/4762bd34-1dd4-4f7d-bebb-45cb5791ead8" width="300" alt="학교지도")
+![학교지도](https://github.com/user-attachments/assets/33008a43-efaa-490f-a515-e64a7bd03907)
 
 ---
 
